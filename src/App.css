@@ -8,7 +8,7 @@ body {
 .container {
 	max-width: 1200px;
 	width: 100%;
-	padding: 30px;
+	padding: 10px;
 	display: flex;
 	flex-direction: column;
 	align-items: center;
@@ -24,7 +24,7 @@ body {
 }
 
 .container form input {
-	width: 160px;
+	width: 140px;
 	height: 30px;
 	border: 1px solid black;
 	border-radius: 5px;
@@ -34,7 +34,7 @@ body {
 .container form button {
 	background: rgba(38, 193, 177, 0.333);
 	height: 40px;
-	width: 160px;
+	width: 140px;
 	border: 1px solid transparent;
 	border-radius: 5px;
 	font-weight: 700;
